@@ -1,6 +1,6 @@
 <template>
     <div>
-        <h1>Live Location Tracker with Leaflet</h1>
+        <h1>Testing</h1>
     </div>
 </template>
 
